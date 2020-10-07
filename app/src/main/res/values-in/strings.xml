@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMovieApp</string>
+
+    <string name="nav_movie">Film</string>
+    <string name="nav_tv">Acara Tv</string>
+    <string name="nav_favorite">Favorit</string>
+
+    <string name="language_settings">Pengaturan Bahasa</string>
+    <string name="reminder_settings">Pengaturan Pengingat</string>
+    <string name="search_label">Cari</string>
+
+    <string name="label_daily_reminder1">Daily Reminder</string>
+    <string name="label_daily_reminder2">Pengingat untuk kembali ke aplikasi.</string>
+
+    <string name="label_release_reminder1">Release Reminder</string>
+    <string name="label_release_reminder2">Pengingat rilis film baru.</string>
+
+    <string name="daily_notif_title">Hai, Aku kangen :)</string>
+    <string name="daily_notif_content">Tap me, please.</string>
+
+    <string name="release_notif_title">Hei, film baru rilis hari ini!</string>
+    <string name="release_notif_content">%1$s rilis hari ini.</string>
+
+    <string name="daily_on">Daily Reminder menyala</string>
+    <string name="daily_off">Daily Reminder dimatikan</string>
+    <string name="release_on">Release Reminder menyala</string>
+    <string name="release_off">Release Reminder dimatikan</string>
+
+    <string name="label_genre">Genre : %1$s</string>
+    <string name="movie_overview">Ringkasan\n%1$s</string>
+    <string name="movie_release">Tanggal Rilis : %1$s</string>
+    <string name="added">%1$s ditambahkan.</string>
+    <string name="removed">%1$s telah dihapus.</string>
+    <string name="check_internet">TOlong cek terlebi dahulu koneksi internet anda.</string>
+    <string name="add_fav">Tambah Favorit</string>
+    <string name="confirm_remove">Apakah Anda yakin akan menghapus item ini ?</string>
+    <string name="confirm_positive">HAPUS</string>
+    <string name="confirm_negative">Batal</string>
+
+    <string name="no_movie">Tidak ada film didaftar favorit.</string>
+</resources>

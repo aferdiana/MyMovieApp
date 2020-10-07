@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyMovieApp</string>
+
+    <string name="nav_movie">Movies</string>
+    <string name="nav_tv">TV Shows</string>
+    <string name="nav_favorite">Favorites</string>
+
+    <string name="language_settings">Change Language Settings</string>
+    <string name="reminder_settings">Reminder Settings</string>
+    <string name="search_label">Search</string>
+
+    <string name="label_daily_reminder1">Daily Reminder</string>
+    <string name="label_daily_reminder2">Reminder to returrn app.</string>
+
+    <string name="label_release_reminder1">Release Reminder</string>
+    <string name="label_release_reminder2">Reminder new movies release.</string>
+
+    <string name="daily_notif_title">Hi, I miss you :)</string>
+    <string name="daily_notif_content">Tap me, please.</string>
+
+    <string name="release_notif_title">Hei, new movie is release today!</string>
+    <string name="release_notif_content">%1$s is release today.</string>
+
+    <string name="daily_on">Daily Reminder Turned on</string>
+    <string name="daily_off">Daily Reminder Turned on</string>
+    <string name="release_on">Release Reminder Turned on</string>
+    <string name="release_off">Release Reminder Turned on</string>
+
+    <string name="label_genre">Genre : %1$s</string>
+    <string name="movie_overview">Overview\n%1$s</string>
+    <string name="movie_release">Release Date : %1$s</string>
+    <string name="added">%1$s added.</string>
+    <string name="removed">%1$s has been removed.</string>
+    <string name="check_internet">Please check your internet connection.</string>
+    <string name="add_fav">Add Favorite</string>
+    <string name="confirm_remove">Are you sure to remove this item ?</string>
+    <string name="confirm_positive">REMOVE</string>
+    <string name="confirm_negative">Cancel</string>
+
+    <string name="no_movie">There\'s no movie added.</string>
+
+</resources>
