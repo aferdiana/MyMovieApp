@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyMovieCatalogue</string>
+
+    <string name="lang_setting">id-ID</string>
+
+    <string name="menu_movies">Layar Lebar</string>
+    <string name="menu_tvshows">Serial TV</string>
+    <string name="menu_favorites">Favorit</string>
+
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_overview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dapibus magna at erat placerat vulputate. Nam id dolor eget augue aliquam pellentesque vitae ut mauris. Ut et pellentesque turpis, auctor ornare sem. Vivamus nisi lorem, pellentesque eu tincidunt eu, maximus vitae erat. Aliquam non commodo mauris. Duis feugiat turpis quis tortor hendrerit interdum. Donec vitae cursus dolor. Donec condimentum ipsum a metus aliquet molestie ut et massa. Phasellus nec cursus quam. Duis gravida dolor quis sapien sollicitudin dignissim. Nullam at lobortis arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent hendrerit semper est sed semper. Nam condimentum venenatis metus ut accumsan. Donec laoreet ac nisi ullamcorper pretium.</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="release_date_label">Tanggal Rilis :</string>
+    <string name="dummy_date">2019-08-01</string>
+    <string name="dummy_rating">6.9</string>
+    <string name="movie_overview_label">Sinposis Film</string>
+</resources>
