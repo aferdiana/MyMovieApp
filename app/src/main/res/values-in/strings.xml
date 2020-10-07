@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMovieApp</string>
+
+    <string name="title_movie">Movies</string>
+    <string name="title_tv">Serial TV</string>
+    <string name="title_fav">Favorites</string>
+
+    <string name="change_language_settings">Ganti Bahasa</string>
+
+    <string name="label_genre">Genre : %1$s</string>
+
+    <string name="check_internet">Tolong cek koneksi internet Anda.</string>
+    <string name="removed">%1$s telah diapus.</string>
+
+    <string name="movie_overview">Ringkasan\n%1$s</string>
+    <string name="movie_release">Tanggal Rilis : %1$s</string>
+
+    <string name="add_fav">Tambah Favorit</string>
+
+    <string name="confirm_remove">Apakah kamu yakinmenghapus data ini ?</string>
+    <string name="confirm_positive">HAPUS</string>
+    <string name="confirm_negative">Batal</string>
+
+    <string name="added">%1$s ditambahkan.</string>
+
+</resources>
