@@ -1,0 +1,272 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">MyMovieCatalogue</string>
+    <string name="title_movies">Film</string>
+    <string name="title_tv_show">Acara TV</string>
+    <string name="title_favorites">Favorit</string>
+    <string name="change_language_settings">Ubah pengaturan bahasa</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_overview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas id porttitor nisi. Nulla tincidunt, ante quis vehicula laoreet, sem neque bibendum lorem, vel placerat mauris urna nec velit. Donec aliquam nisi et elit bibendum porttitor sed eu ligula. Curabitur viverra mollis metus sed elementum. Sed accumsan lacus sed quam gravida vehicula. Aenean vel sem non neque scelerisque sodales. Integer eleifend dapibus dictum. Nulla sodales lectus id nulla gravida, at sagittis diam viverra. Aliquam egestas eros at sollicitudin semper. Suspendisse potenti. Aliquam ultrices dolor in diam faucibus congue. Morbi rutrum, nulla tristique tristique venenatis, neque ex suscipit lectus, eu lacinia ipsum lacus eu eros. Duis vehicula accumsan porttitor.</string>
+    <string name="rating_movie">10/10</string>
+    <string name="movie_genre">Genre, Genre, Genre</string>
+    <string name="label_release_date">Tanggal rilis :</string>
+    <string name="release_date">23 Februari 2018</string>
+    <string name="label_duration">Durasi :</string>
+    <string name="duration">23j</string>
+    <string name="button_favorite">Favorit</string>
+
+    <string-array name="data_movie_title">
+        <item>A Star Is Born</item>
+        <item>Alita: Battle Angel</item>
+        <item>Aquaman</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Cold Pursuit</item>
+        <item>Creed II</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <item>Glass</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Avengers: Infinity War</item>
+        <item>Mary Queen of Scots</item>
+        <item>Master Z: Ip Man Legacy</item>
+    </string-array>
+
+    <string-array name="data_movie_overview">
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan iblis internalnya sendiri.</item>
+                
+        <item>Ketika Alita terbangun tanpa ingatan siapa dia di dunia masa depan yang tidak dia kenal, dia dibawa oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat di cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan masa lalu yang luar biasa.</item>
+                
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, setengah manusia setengah manusia, saudara setengah Atlantis dan pewaris sejati takhta.</item>
+                
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock Queen Rock pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan.</item>
+                
+        <item>Kehidupan keluarga yang tenang di Nels Coxman, seorang sopir bajak salju, menjadi kacau setelah pembunuhan putranya. Nels memulai perburuan dendam untuk Viking, raja obat bius yang dianggapnya bertanggung jawab atas pembunuhan itu, menghilangkan rekan Viking satu per satu. Saat Nels semakin dekat dengan Viking, tindakannya membawa konsekuensi yang lebih tak terduga dan kejam, karena ia membuktikan bahwa balas dendam adalah semua dalam eksekusi.</item>
+                
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.</item>
+                
+        <item>Gellert Grindelwald telah lolos dari hukuman penjara dan mulai mengumpulkan pengikut untuk tujuannya — meninggikan para penyihir di atas semua makhluk non-magis. Satu-satunya yang mampu menghentikannya adalah penyihir yang pernah ia sebut teman terdekatnya, Albus Dumbledore. Namun, Dumbledore perlu mencari bantuan dari penyihir yang pernah menggagalkan Grindelwald sebelumnya, mantan muridnya Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis ditarik saat cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia sihir yang semakin terpecah.</item>
+                
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.</item>
+                
+        <item>Saat Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless tentang pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. Saat bahaya memuncak di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.</item>
+                
+        <item>Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih tidak pasti.</item>
+                
+        <item>Pada tahun 1561, Mary Stuart, janda Raja Prancis, kembali ke Skotlandia, merebut kembali tahtanya yang sah dan mengancam masa depan Ratu Elizabeth I sebagai penguasa Inggris, karena ia memiliki klaim sah atas takhta Inggris. Pengkhianatan, pemberontakan, konspirasi, dan pilihan hidup mereka sendiri membahayakan Ratu. Mereka mengalami biaya kekuasaan yang pahit, sampai nasib tragis mereka akhirnya terpenuhi.</item>
+                
+        <item>Setelah dikalahkan oleh Ip Man, Cheung Tin Chi berusaha untuk tidak menonjolkan diri. Saat menjalankan bisnisnya, ia berkelahi dengan orang asing bernama Davidson, yang merupakan bos besar di belakang bar distrik. Tin Chi berjuang keras dengan Wing Chun dan mendapatkan rasa hormat.</item>
+    </string-array>
+
+    <string-array name="data_movie_rating">
+        <item>7.7/10</item>
+        <item>7.5/10</item>
+        <item>7.1/10</item>
+        <item>8.0/10</item>
+        <item>6.2/10</item>
+        <item>7.0/10</item>
+        <item>6.6/10</item>
+        <item>6.8/10</item>
+        <item>7.6/10</item>
+        <item>8.5/10</item>
+        <item>6.3/10</item>
+        <item>6.5/10</item>
+    </string-array>
+
+    <string-array name="data_movie_genre">
+        <item>Drama, Musik, Romansa</item>
+        <item>Aksi, Petualangan, Sci-Fi</item>
+        <item>Aksi, Petualangan, Fantasi</item>
+        <item>Biografi, Drama, Musik</item>
+        <item>Aksi, Crime, Drama</item>
+        <item>Drama, Olahraga</item>
+        <item>Petualangan, Family, Fantasi</item>
+        <item>Drama, Sci-Fi, Thriller</item>
+        <item>Animasi, Aksi, Petualangan</item>
+        <item>Aksi, Petualangan, Sci-Fi</item>
+        <item>Biografi, Drama, Sejarah</item>
+        <item>Aksi, Crime</item>
+    </string-array>
+
+    <string-array name="data_movie_release">
+        <item>5 Oktober 2018</item>
+                
+        <item>14 Februari 2019</item>
+                
+        <item>21 Desember 2018</item>
+                
+        <item>2 November 2018</item>
+                
+        <item>8 Februari 2019</item>
+                
+        <item>21 November 2018</item>
+                
+        <item>16 November 2018</item>
+                
+        <item>18 Januari 2019</item>
+                
+        <item>22 Februari 2019</item>
+                
+        <item>27 April 2018</item>
+                
+        <item>7 Desember 2018</item>
+                
+        <item>12 April 2019</item>
+    </string-array>
+
+    <string-array name="data_movie_duration">
+        <item>2j 15m</item>
+        <item>2j 2m</item>
+        <item>2j 23m</item>
+        <item>2j 15m</item>
+        <item>1j 59m</item>
+        <item>2j 10m</item>
+        <item>2j 14m</item>
+        <item>2j 9m</item>
+        <item>1j 44m</item>
+        <item>2j 29m</item>
+        <item>2j 4m</item>
+        <item>1j 47m</item>
+    </string-array>
+
+    <string-array name="data_movie_poster">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_marry_queen</item>
+        <item>@drawable/poster_master_z</item>
+    </string-array>
+
+
+    <!-- TV SHOW -->
+    <string-array name="data_tv_show_title">
+        <item>Arrow</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>Gotham</item>
+        <item>Grey\'s Anatomy</item>
+        <item>Hanna</item>
+        <item>Naruto Shippuden</item>
+        <item>NCIS</item>
+        <item>Supernatural</item>
+        <item>The Simpsons</item>
+        <item>The Walking Dead</item>
+    </string-array>
+
+    <string-array name="data_tv_show_overview">
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas saat kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+                
+        <item>Dahulu di gunung, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang anak aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk bola naga membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh bola naga dalam sebuah petualangan yang akan mengubah hidup Goku selamanya. Lihat bagaimana Goku bertemu teman-teman seumur hidupnya Bulma, Yamcha, Krillin, Master Roshi dan banyak lagi.</item>
+                
+        <item>Lucy adalah gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, dia adalah anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail.</item>
+                
+        <item>Serial animasi Freakin\' Sweet yang sakit, bengkok, salah secara politis, dan menampilkan petualangan keluarga Griffin yang tidak berfungsi. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sambil menghirup Martinis dan memilah-milah masalah hidupnya sendiri.</item>
+                
+        <item>Sebelum ada Batman, ada GOTHAM. \nSemua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordon dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?</item>
+                
+        <item>Mengikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Gray Sloan Memorial di Seattle.</item>
+                
+        <item>Drama thriller dan usia dewasa ini mengikuti perjalanan seorang gadis muda yang luar biasa saat ia menghindari pengejaran tanpa henti dari seorang agen CIA yang tidak ada buku dan mencoba untuk menggali kebenaran di balik siapa dirinya. Berdasarkan film Joe Wright 2011.</item>
+                
+        <item>Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Ceritanya berkisar pada Naruto Uzumaki yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya, meskipun itu tidak akan mudah, karena Ia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. ; Akatsuki.</item>
+                
+        <item>Dari pembunuhan dan spionase hingga terorisme dan kapal selam curian, tim agen khusus menyelidiki kejahatan apa pun yang memiliki sedikit bukti yang terhubung dengan personel Korps Angkatan Laut dan Korps Marinir, terlepas dari pangkat atau jabatannya.</item>
+                
+        <item>Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajar mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika &#8230; dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi negara itu dengan Chevy Impala mereka, melawan semua jenis ancaman supranatural yang mereka temui di sepanjang jalan.</item>
+                
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.</item>
+                
+        <item>Wakil Sheriff, Rick Grimes terbangun dari koma untuk menemukan dunia pasca-apokaliptik yang didominasi oleh zombie pemakan daging. Dia berangkat untuk menemukan keluarganya dan bertemu dengan banyak penyintas lainnya di sepanjang jalan.</item>
+    </string-array>
+
+    <string-array name="data_tv_show_release">
+        <item>10 Oktober 2012</item>
+                
+        <item>13 September 1996</item>
+                
+        <item>12 Oktober 2009</item>
+                
+        <item>31 Januari 1999</item>
+                
+        <item>26 Juli 2014</item>
+                
+        <item>27 Maret 2005</item>
+                
+        <item>4 Februari 2019</item>
+                
+        <item>15 Februari 2007</item>
+                
+        <item>23 September 2003</item>
+                
+        <item>13 September 2005</item>
+                
+        <item>17 Desember 1989</item>
+                
+        <item>31 Oktober 2010</item>
+    </string-array>
+
+    <string-array name="data_tv_show_runtime">
+        <item>42m</item>
+        <item>25m</item>
+        <item>25m</item>
+        <item>22m</item>
+        <item>42m</item>
+        <item>43m</item>
+        <item>50m</item>
+        <item>22m</item>
+        <item>45m</item>
+        <item>45m</item>
+        <item>22m</item>
+        <item>45m</item>
+    </string-array>
+
+    <string-array name="data_tv_show_genre">
+        <item>Aksi, Petualangan, Crime</item>
+        <item>Animasi, Aksi, Petualangan</item>
+        <item>Animasi, Aksi, Petualangan</item>
+        <item>Animasi, Komedi</item>
+        <item>Aksi, Crime, Drama</item>
+        <item>Drama, Romansa</item>
+        <item>Aksi, Drama</item>
+        <item>Animasi, Aksi, Petualangan</item>
+        <item>Aksi, Crime, Drama</item>
+        <item>Drama, Fantasi, Horor</item>
+        <item>Animasi, Komedi</item>
+        <item>Drama, Horor, Thriller</item>
+    </string-array>
+
+    <string-array name="data_tv_show_rating">
+        <item>7.6/10</item>
+        <item>8.7/10</item>
+        <item>8.1/10</item>
+        <item>8.2/10</item>
+        <item>7.9/10</item>
+        <item>7.6/10</item>
+        <item>7.6/10</item>
+        <item>8.4/10</item>
+        <item>7.8/10</item>
+        <item>8.5/10</item>
+        <item>8.7/10</item>
+        <item>8.3/10</item>
+    </string-array>
+
+    <string-array name="data_tv_show_poster">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_ncis</item>
+        <item>@drawable/poster_supernatural</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_the_walking_dead</item>
+    </string-array>
+</resources>
