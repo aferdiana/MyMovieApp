@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin">
+
+    <ImageView
+        android:id="@+id/img_poster"
+        android:layout_width="@dimen/width_poster_lv"
+        android:layout_height="@dimen/height_poster_lv"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:maxLines="2"
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_padding_xxnormal"
+        android:layout_toEndOf="@+id/img_poster"
+        android:text="@string/movie_title"
+        android:textSize="@dimen/text_size_xxnormal"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_overview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_title"
+        android:layout_marginStart="@dimen/margin_padding_xxnormal"
+        android:layout_marginTop="@dimen/margin_padding_tiny"
+        android:layout_toRightOf="@id/img_poster"
+        android:ellipsize="end"
+        android:maxLines="4"
+        android:text="@string/movie_overview" />
+
+</RelativeLayout>
